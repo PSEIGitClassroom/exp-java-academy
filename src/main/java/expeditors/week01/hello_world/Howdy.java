@@ -12,7 +12,7 @@ public class Howdy {
      * @param args  Optional command-line arguments for app
      */
     public static void main(String[] args) {
-        String message = "Hello, World! Let's get to coding!!!";
+        String message = "Hello, World! Let's get to coding!!";
         System.out.println(message);
         for (var counter = 0; counter < message.length(); counter++) {
             System.out.print("=");
