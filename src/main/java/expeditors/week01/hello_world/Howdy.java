@@ -8,7 +8,7 @@ package expeditors.week01.hello_world;
 public class Howdy {
     /**
      * Main entry point for "Hello, World" application.
-     *
+     * Add a new comment.
      * @param args  Optional command-line arguments for app
      */
     public static void main(String[] args) {
